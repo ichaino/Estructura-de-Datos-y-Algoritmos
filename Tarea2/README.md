@@ -1,6 +1,6 @@
 # Tarea 2 - Estructuras de Datos y Algoritmos
 
-Proyecto correspondiente al Laboratorio N.º 2 de la asignatura **Estructuras de Datos y Algoritmos**, realizado el 26 de abril de 2024.
+Proyecto correspondiente al Laboratorio de la asignatura **Estructuras de Datos y Algoritmos**
 
 ## Descripción
 
